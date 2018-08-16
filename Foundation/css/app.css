@@ -62,3 +62,13 @@ img{
 .menu a:hover{
 	color: #5b5b2d;
 }
+
+
+/*Estilos para imagen y span del contenedor 2*/
+.callout span{
+	color: white;
+}
+
+.row .img{
+	margin: 1em auto;
+}
