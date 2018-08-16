@@ -40,3 +40,9 @@ body{
 .button:hover{
 	background: #5b5b2d;
 }
+
+
+/*Estilos para el contenedor del menu*/
+.callout{
+   	background: rgba(66, 66, 66, 0.83);
+}
