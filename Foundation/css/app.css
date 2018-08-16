@@ -1,0 +1,15 @@
+/*Estilos para el Fondo de la pagina*/
+body{
+  	background: url(../img/fondo.jpg);
+  	background-position: center;
+  	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-size: cover;
+  	font-size: 14px;
+}
+
+
+/*Estilos para el contenedor*/
+.contenedor{
+  	background: rgba(0, 0, 0, 0.83);
+}
