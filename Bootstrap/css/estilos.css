@@ -61,6 +61,6 @@ body{
 .imagen{
 	margin-top: 10px;
 	border-radius: 10px;
-	width: 500px;
-	height: 600px;
+	width: 330px !important;
+	height: 150px !important;
 }
