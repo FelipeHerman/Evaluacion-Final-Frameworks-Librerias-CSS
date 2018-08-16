@@ -64,11 +64,16 @@ img{
 }
 
 
-/*Estilos para imagen y span del contenedor 2*/
+/*Estilos para imagen, span y parrafo del contenedor 2*/
 .callout span{
 	color: white;
 }
 
 .row .img{
 	margin: 1em auto;
+}
+
+p{
+	color: white;
+	text-align: justify;
 }
