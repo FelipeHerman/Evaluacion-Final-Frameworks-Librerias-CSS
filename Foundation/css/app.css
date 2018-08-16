@@ -46,3 +46,11 @@ body{
 .callout{
    	background: rgba(66, 66, 66, 0.83);
 }
+
+
+/*Estilos para imagenes del menu*/
+img{
+  	margin: auto;
+  	width: 100%;
+	height: 80%;
+}
