@@ -5,6 +5,12 @@ body{
 }
 
 
+/*Contenedor logo y redes*/
+.bottom-column{
+	background-color: white;
+}
+
+
 /*Estilos logo*/
 .content-logo{
 	padding-top: 1.2%;
