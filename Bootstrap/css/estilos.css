@@ -57,3 +57,10 @@ body{
 .textarea{
 	padding: 6px 0px 6px 0px;
 }
+
+.imagen{
+	margin-top: 10px;
+	border-radius: 10px;
+	width: 500px;
+	height: 600px;
+}
