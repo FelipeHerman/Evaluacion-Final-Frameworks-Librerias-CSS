@@ -46,3 +46,14 @@ body{
 .navbar ul a:hover{
 	color: black;
 }
+
+/*Estilos para el contenido de la pagina*/
+.contenido{
+	background: white;
+	padding: 10px;
+	border-radius: 6px 6px 0 0;
+}
+
+.textarea{
+	padding: 6px 0px 6px 0px;
+}
