@@ -80,3 +80,11 @@ a .social-icon {
 	height: 616px !important;
 	margin-top: 10px;
 }
+
+
+/*Estilo Imagen del card*/
+.foto_card{
+	width: 500px !important;
+	height: 300px !important;
+	margin-top: 22px;
+}
