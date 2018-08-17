@@ -66,3 +66,17 @@ a .social-icon {
 .social-icon img:hover {
 	background: rgba(0, 0, 0, 0.75);
 }
+
+
+/*Estilos para Imagenes*/
+.foto{
+	width: 500px !important;
+	height: 300px !important;
+	margin-top: 10px;
+}
+
+.foto1{
+	width: 500px;
+	height: 616px !important;
+	margin-top: 10px;
+}
