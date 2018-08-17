@@ -88,3 +88,9 @@ a .social-icon {
 	height: 300px !important;
 	margin-top: 22px;
 }
+
+
+/*Estilo boton enviar*/
+.enviar{
+  	text-align: right;
+}
