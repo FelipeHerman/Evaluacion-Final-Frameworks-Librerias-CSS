@@ -16,3 +16,53 @@
 .color {
 	height: 105px;
 }
+
+
+/*Estilos para el slogan*/
+header .slogan{
+	position: absolute;
+	font-size: 25px;
+	margin-top: 10px;
+  	text-shadow: -1px 2px 2px rgba(0,0,0,.5);
+}
+
+
+/*Estilos para el logo*/
+.logo{
+  	width: 95px !important;
+}
+
+.content_logo{
+	padding-top: 1em !important;
+	padding-bottom: 1em !important;
+}
+
+
+/*Estilos para el menu de navegacion*/
+.menu a{
+  	margin-right: .5em;
+  	margin-bottom: .5em;
+  	padding-left: 1em;
+  	padding-right: 1em;
+  	display: inline-flex;
+}
+
+
+/*Estilos para las redes sociales*/
+a .social-icon {
+	margin: 0 auto;
+	text-align: center;
+	float: left;
+}
+
+.social-icon img {
+	width: 60px !important;
+	height: 60px;
+	margin: 0 auto;
+	text-align: center;
+	padding: 10px;
+}
+
+.social-icon img:hover {
+	background: rgba(0, 0, 0, 0.75);
+}
